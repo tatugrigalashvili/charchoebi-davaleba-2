@@ -1,0 +1,16 @@
+.box{
+    height: 435px;
+    width: 360px;
+    background-color: #FFF;
+    border: 1px solid #B4B4B4;
+}
+
+.text{
+    color: #808080;
+}
+
+.image{
+    background-image: url(img.png);
+    height: 226px;
+    width: 305px;
+}
